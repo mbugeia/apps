@@ -251,6 +251,12 @@
         "state": "inprogress",
         "url": "https://github.com/YunoHost-Apps/gnusocial_ynh"
     },
+    "gogs_webhost": {
+        "branch": "master",
+        "revision": "5118d3224dccfc6acc3f05d9d6715946e7032a9e",
+        "state": "working",
+        "url": "https://github.com/YunoHost-Apps/gogs_webhost_ynh"
+    },
     "hotspot": {
         "branch": "master",
         "revision": "850f19584efe0764642587bb49ba47e73415be6b",
